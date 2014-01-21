@@ -1,0 +1,24 @@
+[submodule "modules/apt"]
+	path = modules/apt
+	url = https://github.com/puppetlabs/puppetlabs-apt
+[submodule "modules/beanstalkd"]
+	path = modules/beanstalkd
+	url = https://bitbucket.org/mkpeacock/puppet-beanstalkd.git
+[submodule "modules/mysql"]
+	path = modules/mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "modules/newrelic"]
+	path = modules/newrelic
+	url = https://github.com/fsalum/puppet-newrelic
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "modules/vcsrepo"]
+	path = modules/vcsrepo
+	url = https://github.com/puppetlabs/puppetlabs-vcsrepo
+[submodule "modules/supervisor"]
+	path = modules/supervisor
+	url = https://github.com/plathrop/puppet-module-supervisor
+[submodule "modules/serverdensity"]
+	path = modules/serverdensity
+	url = https://github.com/serverdensity/puppet-serverdensity
